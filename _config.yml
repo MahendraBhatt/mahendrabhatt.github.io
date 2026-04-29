@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
-title: Mahendra Bhatt's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Mahendra Bhatt
+description: Tech Architect | Software Engineer
+author: Mahendra Bhatt
+email: bhatmahendramulraj@gmail.com
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
